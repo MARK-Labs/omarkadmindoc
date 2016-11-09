@@ -4,8 +4,8 @@ baseUrl: https://mark-labs.github.io/omarkadmindoc
 template:
     url: https://github.com/MARK-Labs/Template-ReadTheDocs
 
-title: Organisation Admin Portal User Guide
-subTitle: This is a complete guide for using funder.marklabs.co
+title: Impact™ Administrative Guide
+subTitle: This is a complete guide for administrators on impact.marklabs.co
 
 # The left menu bar
 menu:
@@ -14,7 +14,19 @@ menu:
             text: Home
             # You can use relative urls
             relativeUrl: .
-        user:
-            text: Users
+        profile:
+            text: Company Profile
             # You can use relative urls
-            relativeUrl: user.html
+            relativeUrl: profile.html
+        reporting:
+            text: Configure Reporting
+            # You can use relative urls
+            relativeUrl: reporting.html
+        users:
+            text: User Management
+            # You can use relative urls
+            relativeUrl: users.html
+        requirements:
+            text: Reporting Requirements
+            # You can use relative urls
+            relativeUrl: requirements.html
