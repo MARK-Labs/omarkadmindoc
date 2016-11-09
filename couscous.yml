@@ -1,5 +1,5 @@
 # Base URL of the published website
-baseUrl: https://orgadmindocs.marklabs.co
+baseUrl: https://mark-labs.github.io/omarkadmindoc
 
 template:
     url: https://github.com/MARK-Labs/Template-ReadTheDocs
