@@ -30,3 +30,7 @@ menu:
             text: Reporting Requirements
             # You can use relative urls
             relativeUrl: requirements.html
+        faq:
+            text: FAQs
+            # You can use relative urls
+            relativeUrl: faq.html
