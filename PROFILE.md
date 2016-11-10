@@ -2,11 +2,17 @@
 currentMenu: profile
 ---
 
-# Managing your Company Profile
+# Manage your Company Profile
 
-The purpose of this guide is to provide an overview of the features of the Accelerate&trade; portal. Specifically you will learn how to:
+As an administrator, you can manage your company profile that will be public to your funders.
 
-#### 1. Manage your user profile.
-#### 2. Manage your dashboard.
-#### 3. Use the Social Feedback Loop&trade;.
-#### 4. Export Performance Data.
+## Accessing the page
+
+To access this page, select "Company Profile" from the "Settings" menu.
+
+## Editable fields
+
+At the moment, you can update the following fields:
+
+* **Name** - The name of your organisation
+* **Mission** - A short descrption of the mission for your organisation
