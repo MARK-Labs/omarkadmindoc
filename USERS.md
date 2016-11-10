@@ -16,8 +16,8 @@ To invite a user, enter their email click "Send Invitation". This will send them
 
 ## Pending Invitations
 
-Once a user has been invited, they will appear under Pending Invitations. To cancel the invitation click on the ![cross icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Delete Icon"). If this is done prior to them completing their registration, they will not be able to register. To resend the invitation, click on the ![recycle icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Resend Icon").
+Once a user has been invited, they will appear under Pending Invitations. To cancel the invitation click on the ![cross icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/cross.png "Delete Icon"). If this is done prior to them completing their registration, they will not be able to register. To resend the invitation, click on the ![refresh icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/refresh.png "Resend Icon").
 
 ## Confirmed Invitations
 
-Once the user has confirmed their invitation, they will appear under the Confirmed Invitations list. You can disable their account by clicking on the ![disable icon](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Disable Icon"). They will not be able to access this company account the next time they log in. Once disabled, a "(Disabled)" tag will appear beside their name.
+Once the user has confirmed their invitation, they will appear under the Confirmed Invitations list. You can disable their account by clicking on the ![disable icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/ban.png "Disable Icon"). They will not be able to access this company account the next time they log in. Once disabled, a "(Disabled)" tag will appear beside their name.
