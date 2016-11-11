@@ -46,7 +46,7 @@ Similar to Multiple Choice, the only difference is that the user is shown a drop
 
 #### Creating a Template
 
-To create a Template click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon") on the top right of the Templates table.
+To create a Template click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon") on the top right of the Templates section.
 
 #### Editing a template
 
@@ -77,9 +77,40 @@ For The last three types are only applicable for number fields. Once selected, y
 
 ### Creating a Suggested KPI
 
-To create a KPI click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon") on the top right of the KPIs
+To create a KPI click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon") on the top right of the KPIs section.
 table.
 
 ### Editing a KPI
 
 To Edit a KPI, click on the ![pencil icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/pencil.png "Pencil Icon") beside the KPI
+
+
+## Submitting Records
+
+Once a template has been created, you can start submitting records based on the template. This can be done on the Activities screen or on the main dashboard. All reports require a time and location. The additional fields will be based on the configurations done by your Impact&trace; administrator. All fields are currently required.
+
+##### Creating a Record
+
+To create a record click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon") on the top right of the Records section.
+table.
+
+## Graphs
+
+Graphs can be created to visualize your data. They will appear in both your dashboard and in Accelerate&trade; for your funders. The data can be created from the records that you have submitted or the historical values of the KPIs. Each graph you create will appear in its own tile.
+
+### Creating a Graph
+
+To create a KPI click on the ![plus icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/plus.png "Plus Icon") on the top right of the Graphs section.
+table.
+
+##### Describing the Graph
+
+You can provide a name and description of the graph. This will appear as the title of Graph tile that displays your graph. You can also specify what type of chart you would like to use. Currently the platform supports bar, line, pie and radar.
+
+##### Configuring the Graph Source
+
+Once you have selected the graph type, you can specify the source. It can be either Records or KPIs. If you choose to use a radar graph, you would only be able to use Records. You will also need to make sure that the Records you use have more than 1 number field to take advantage of the Radar format. If you have chosen Records, you will be required to select a "X Values" for your graph.
+
+### Editing a Graph
+
+To Edit a KPI, click on the ![pencil icon](https://d3e1wbkfmk6n2w.cloudfront.net/fa/pencil.png "Pencil Icon") beside the Graph entry.
